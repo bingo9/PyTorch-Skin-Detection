@@ -1,0 +1,8 @@
+
+pandas 
+scikit-learn
+torch
+albumentations
+numpy
+wtfml
+pretrainedmodels
